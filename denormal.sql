@@ -1,3 +1,5 @@
+-- ## Denormal Cars
+
 -- 5 create query to get list by values of column in table
 -- SELECT DISTINCT make_title
 -- FROM car_models
@@ -17,3 +19,4 @@
 -- FROM car_models
 --   WHERE car_models.year >= 2010
 --     AND car_models.year <= 2015
+
